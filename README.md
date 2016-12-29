@@ -1,3 +1,3 @@
 # GridCardView
 Sample app showing a RecylerView of Cards in a Grid
-![Screenshot](http://imgur.com/a/XxG1B)
+![Screenshot](http://i.imgur.com/KF6yxtj.jpg)
